@@ -60,7 +60,7 @@ trap 'found_error' ERR
 
 
 
-echo -e "STARTING SYSTEM INSATLL IN MODE: $OE_MODE...\n"
+echo -e "STARTING SYSTEM INSTALL IN MODE: $OE_MODE...\n"
 
 export DEBIAN_FRONTEND=noninteractive
 
