@@ -228,7 +228,7 @@ if [ $preservedb = 0 ]; then
     # If the genetics switch has been set, then enable the genetics module
     [ $genetics = 1 ] && resetswitches+=("--genetics-enable")
 
-    $SCRIPTDIR/oe-reset.sh "${resetswitches[@]}"
+    $SCRIPTDIR/oe-reset.sh ${resetswitches[@]}
 
 fi
 
