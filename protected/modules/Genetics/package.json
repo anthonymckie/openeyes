@@ -12,7 +12,7 @@
 		"url": "https://github.com/openeyes/Genetics/issues"
 	},
 	"devDependencies": {
-		"grunt": "~0.4.1",
+		"grunt": "~1.6.1",
 		"grunt-contrib-compass": "~0.5.0",
 		"grunt-contrib-watch": "~0.5.2",
 		"load-grunt-tasks": "~0.1.0"
